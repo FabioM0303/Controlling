@@ -1,0 +1,16 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\nonumberline Abbildungsverzeichnis}{III}{section*.2}%
+\contentsline {section}{\numberline {1}Balanced Scorecard}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Einleitung}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Strategische Ausgangslage der BUÖ}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Bedeutung der Balanced Scorecard für die BUÖ}{1}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Erläuterung der Perspektiven}{2}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Finanzperspektive}{2}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Kundenperspektive}{2}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Interne Prozessperspektive}{2}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Lern- und Entwicklungsperspektive}{3}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Ursache-Wirkungs-Zusammenhänge}{3}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Kritische Würdigung}{3}{subsubsection.1.5.1}%
+\contentsline {section}{Quellenverzeichnis}{4}{section*.3}%
+\contentsline {section}{Ehrenwörtliche Erklärung}{5}{section*.4}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,0 +1,32 @@
+%!TEX root = ../Thesis.tex
+\section{Grundlagen}
+
+\subsection{Definition WLAN Sicherheit}
+
+Der Begriff WLAN (Wireless Local Area Network) bezeichnet ein drahtloses lokales Netzwerk, das auf den Spezifikationen des IEEE-Standards 802.11 basiert. Wie der Name bereits andeutet, ermöglicht WLAN die kabellose Verbindung und Kommunikation von Geräten innerhalb eines räumlich begrenzten Bereichs unter Verwendung von Funktechnologien. Angreifer haben somit leichteres Spiel, um sich Zugang zu einem Netzwerk zu verschaffen, nicht etwa wie beim einfachen LAN, bei dem sich Angreifer erstmal physischen Zugang beschaffen müssen.
+In diesem Zusammenhang ensteht die Frage nach der WLAN-Sicherheit. Als WLAN-Sicherheit definiert man alle Maßnahmen die darauf abzielen, ein drahtloses Netzwerk vor unbefugtem Zugriff, Datenmanipulation, Abhörversuchen und sonstigen Angriffen zu schützen.
+%Die IEEE-802.11 definiert hierbei nicht nur die Funkübertragungsprotokolle und Frequenzbereiche (vorrangig 2,4 GHz und 5 GHz), sondern auch Aspekte wie Netzwerkarchitekturen, länderspezifische Besonderheiten und insbesondere auch die Sicherheitsmechanismen, die zum Schutz der übertragenen Daten eingesetzt werden. WLAN Sicherheit bedeutet in diesem Zusammenhang  
+
+%WLAN Netzwerke können in unterschiedlichen Modi betrieben werden. Beim sogenannten Infrastruktur-Modus verbinden sich alle Clients über Funk mit einem Access Point, der den Datenverkehr ins lokale Netzwerk (LAN) oder ins Internet weiterleitet. Im Gegensatz dazu erfolgt im Ad-hoc-Modus (Peer-to-Peer) eine direkte Verbindung zwischen den Geräten selbst, ohne die Vermittlung durch einen zentralen Access Point.
+
+
+\subsection{Gefahren in WLAN-Netzwerken}
+
+1. Offene Netzwerke \& Man-in-the-Middle (MitM)-Angriffe
+Öffentliche WLANs, wie sie in Cafés, Flughäfen oder Hotels angeboten werden, stellen ein hohes Sicherheitsrisiko dar. Da häufig keine oder nur eine schwache Verschlüsselung verwendet wird, können Angreifer sich leicht in die Kommunikation einklinken. Bei einem Man-in-the-Middle-Angriff (MitM) fängt der Angreifer Datenpakete zwischen zwei Geräten ab, ohne dass diese es bemerken. So lassen sich sensible Informationen wie Passwörter, E-Mails oder Zugangsdaten auslesen. Ohne zusätzliche Sicherheitsmaßnahmen, etwa die Nutzung von HTTPS oder VPNs, sind Nutzer in offenen Netzwerken stark gefährdet.
+
+
+2. Rogue Access Points (bösartige Zugangspunkte)
+Ein Rogue Access Point ist ein WLAN-Zugangspunkt, der von Angreifern eingerichtet wird und sich gegenüber Nutzern als vertrauenswürdiges Netzwerk ausgibt. Wird ein solcher AP mit dem Namen eines bekannten Netzwerks versehen, verbinden sich viele Geräte automatisch. Der Angreifer kann daraufhin den gesamten Datenverkehr mitlesen oder manipulieren. Besonders gefährlich ist dies in öffentlichen Umgebungen oder wenn Nutzer keine manuelle Kontrolle über ihre Netzwerkverbindungen ausüben.
+
+
+3. Deauthentication-Angriffe \& DoS im WLAN
+Ein spezieller Angriff auf WLANs ist der sogenannte Deauthentication-Angriff, bei dem der Angreifer gezielt Deauth-Pakete an verbundene Clients sendet. Dadurch werden die Geräte aus dem WLAN getrennt, was die Netzwerkverfügbarkeit erheblich stören kann. Dieser Angriff erfordert keine Entschlüsselung des WLANs und funktioniert bei WPA2-Netzen, die keine Schutzmechanismen gegen manipulierte Management-Frames implementiert haben. In einem erweiterten Szenario kann dies Teil eines DoS- oder DDoS-Angriffs sein, der den gesamten WLAN-Zugangspunkt lahmlegt.
+
+
+4. Brute-Force- und Wörterbuchangriffe
+WLANs, die mit schwachen oder häufig verwendeten Passwörtern geschützt sind, sind anfällig für Brute-Force-Angriffe. Dabei probiert der Angreifer automatisiert viele mögliche Passwortkombinationen aus, bis das richtige gefunden ist. Wörterbuchangriffe funktionieren ähnlich, nutzen jedoch bekannte oder häufig genutzte Passwörter. Besonders WPA/WPA2-Netzwerke im sogenannten Pre-Shared Key (PSK)-Modus sind gefährdet, wenn kein starkes Passwort verwendet wird. WPA3 bietet hier deutlich besseren Schutz durch das SAE-Verfahren (Simultaneous Authentication of Equals).
+
+
+5. MAC-Spoofing \& Netzwerk-Sniffing
+Jedes Gerät im WLAN hat eine eindeutige MAC-Adresse, die theoretisch zur Zugriffskontrolle genutzt werden kann. Allerdings kann ein Angreifer diese Adresse leicht fälschen – das sogenannte MAC-Spoofing. In Kombination mit Sniffing-Tools wie Wireshark lassen sich dadurch gezielt bestimmte Verbindungen überwachen oder sogar übernehmen. Ohne starke Verschlüsselung ist es möglich, Dateninhalte im Klartext mitzulesen – insbesondere bei älteren Standards oder offenen Netzwerken.
