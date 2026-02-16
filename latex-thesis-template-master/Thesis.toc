@@ -1,16 +1,32 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\nonumberline Abbildungsverzeichnis}{III}{section*.2}%
+\contentsline {section}{\nonumberline Abbildungsverzeichnis}{IV}{section*.2}%
 \contentsline {section}{\numberline {1}Balanced Scorecard}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Einleitung}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Strategische Ausgangslage der BUÖ}{1}{subsection.1.2}%
 \contentsline {subsection}{\numberline {1.3}Bedeutung der Balanced Scorecard für die BUÖ}{1}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Erläuterung der Perspektiven}{2}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}Finanzperspektive}{2}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}Kundenperspektive}{2}{subsubsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.3}Interne Prozessperspektive}{2}{subsubsection.1.4.3}%
-\contentsline {subsubsection}{\numberline {1.4.4}Lern- und Entwicklungsperspektive}{3}{subsubsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.5}Ursache-Wirkungs-Zusammenhänge}{3}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}Kritische Würdigung}{3}{subsubsection.1.5.1}%
-\contentsline {section}{Quellenverzeichnis}{4}{section*.3}%
-\contentsline {section}{Ehrenwörtliche Erklärung}{5}{section*.4}%
+\contentsline {subsection}{\numberline {1.4}Finanzperspektive}{2}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Unternehmenswert nachhaltig steigern}{2}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}ROI über gewichteten Kapitalkosten halten}{2}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Free Cash-flow kontinuierlich erhöhen}{3}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Profitables Wachstum realisieren}{4}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Kundenperspektive}{5}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Marktführerschaft ausbauen (>50\% Marktanteil)}{5}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Markendifferenzierung in allen Preissegmenten stärken}{6}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Kundenzufriedenheit in beiden Vertriebskanälen maximieren (LEH \& Gastronomie)}{7}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Neue Kundensegmente erschließen}{8}{subsubsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.6}Interne Prozessperspektive}{10}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Effizienz in Produktion und Logistik steigern}{10}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Qualitätsstandards sicherstellen}{12}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Vertriebsprozesse optimieren (eigener Fuhrpark mit 400 LKW)}{13}{subsubsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.4}Kostenstruktur verbessern (proportionale Produktionskosten, Logistikkosten)}{15}{subsubsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.7}Lern- und Entwicklungsperspektive}{18}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Unternehmerisch denkende Mitarbeiter fördern}{18}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Bereichsübergreifende Zusammenarbeit intensivieren}{20}{subsubsection.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}Controlling- und Steuerungskompetenz weiterentwickeln}{21}{subsubsection.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.4}Innovationsfähigkeit im Produktportfolio stärken}{23}{subsubsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.8}Ursache-Wirkungs-Zusammenhänge}{25}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Kritische Würdigung}{26}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Messgrößen zur strategischen Erreichung der Ziele}{26}{subsection.1.10}%
+\contentsline {section}{Quellenverzeichnis}{27}{section*.3}%
+\contentsline {section}{Ehrenwörtliche Erklärung}{28}{section*.4}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
