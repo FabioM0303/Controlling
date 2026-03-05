@@ -14,24 +14,24 @@
 \contentsline {subsubsection}{\numberline {2.2.3}Neue Kundensegmente erschließen}{6}{subsubsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.3}Interne Prozessperspektive}{6}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Effizienz in Produktion und Logistik steigern}{6}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Qualitätsstandards sicherstellen}{8}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Vertriebsprozesse optimieren (eigener Fuhrpark mit 400 LKW)}{10}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.2}Qualitätsstandards sicherstellen}{7}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Vertriebsprozesse optimieren}{9}{subsubsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.4}Lern- und Entwicklungsperspektive}{11}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}Unternehmerisch denkende Mitarbeiter fördern}{11}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Bereichsübergreifende Zusammenarbeit intensivieren}{12}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Innovationsfähigkeit im Produktportfolio stärken}{13}{subsubsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.5}Ursache-Wirkungs-Zusammenhänge}{14}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.4.3}Innovationsfähigkeit im Produktportfolio stärken}{12}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}Ursache-Wirkungs-Zusammenhänge}{13}{subsection.2.5}%
 \contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Lern- und Innovationsperspektive.}{14}{paragraph*.4}%
-\contentsline {paragraph}{\nonumberline Wirkungen von der Lern- auf die Prozessperspektive.}{15}{paragraph*.6}%
-\contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Prozessperspektive.}{16}{paragraph*.8}%
-\contentsline {paragraph}{\nonumberline Wirkungen von der Prozess- auf die Kundenperspektive.}{16}{paragraph*.10}%
-\contentsline {paragraph}{\nonumberline Wirkungen von der Prozess- direkt auf die Finanzperspektive.}{17}{paragraph*.12}%
+\contentsline {paragraph}{\nonumberline Wirkungen von der Lern- auf die Prozessperspektive.}{14}{paragraph*.6}%
+\contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Prozessperspektive.}{15}{paragraph*.8}%
+\contentsline {paragraph}{\nonumberline Wirkungen von der Prozess- auf die Kundenperspektive.}{15}{paragraph*.10}%
+\contentsline {paragraph}{\nonumberline Wirkungen von der Prozess- direkt auf die Finanzperspektive.}{16}{paragraph*.12}%
 \contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Kundenperspektive.}{17}{paragraph*.14}%
 \contentsline {paragraph}{\nonumberline Wirkungen von der Kundenperspektive auf die Finanzperspektive.}{17}{paragraph*.16}%
 \contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Finanzperspektive.}{18}{paragraph*.18}%
-\contentsline {section}{\numberline {3}Zusammenfassung}{19}{section.3}%
-\contentsline {section}{Anhang}{20}{section*.19}%
-\contentsline {xsect}{}{20}{section*.19}%
-\contentsline {section}{Quellenverzeichnis}{22}{section*.23}%
-\contentsline {section}{Ehrenwörtliche Erklärung}{23}{section*.24}%
+\contentsline {section}{\numberline {3}Zusammenfassung}{18}{section.3}%
+\contentsline {section}{Anhang}{19}{section*.19}%
+\contentsline {xsect}{}{19}{section*.19}%
+\contentsline {section}{Quellenverzeichnis}{21}{section*.23}%
+\contentsline {section}{Ehrenwörtliche Erklärung}{22}{section*.24}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
