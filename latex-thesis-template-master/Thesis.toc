@@ -1,28 +1,37 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\nonumberline Abbildungsverzeichnis}{III}{section*.2}%
-\contentsline {section}{\numberline {1}Balanced Scorecard}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Einleitung}{1}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Strategische Ausgangslage der BUÖ}{1}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Bedeutung der Balanced Scorecard für die BUÖ}{1}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Finanzperspektive}{2}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}Unternehmenswert nachhaltig steigern}{2}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}ROI über gewichteten Kapitalkosten halten}{3}{subsubsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.3}Free Cash-flow kontinuierlich erhöhen}{3}{subsubsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.5}Kundenperspektive}{4}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}Marktführerschaft ausbauen (>50\% Marktanteil)}{4}{subsubsection.1.5.1}%
-\contentsline {subsubsection}{\numberline {1.5.2}Kundenzufriedenheit in beiden Vertriebskanälen maximieren (LEH \& Gastronomie)}{5}{subsubsection.1.5.2}%
-\contentsline {subsubsection}{\numberline {1.5.3}Neue Kundensegmente erschließen}{6}{subsubsection.1.5.3}%
-\contentsline {subsection}{\numberline {1.6}Interne Prozessperspektive}{7}{subsection.1.6}%
-\contentsline {subsubsection}{\numberline {1.6.1}Effizienz in Produktion und Logistik steigern}{7}{subsubsection.1.6.1}%
-\contentsline {subsubsection}{\numberline {1.6.2}Qualitätsstandards sicherstellen}{9}{subsubsection.1.6.2}%
-\contentsline {subsubsection}{\numberline {1.6.3}Vertriebsprozesse optimieren (eigener Fuhrpark mit 400 LKW)}{10}{subsubsection.1.6.3}%
-\contentsline {subsection}{\numberline {1.7}Lern- und Entwicklungsperspektive}{12}{subsection.1.7}%
-\contentsline {subsubsection}{\numberline {1.7.1}Unternehmerisch denkende Mitarbeiter fördern}{12}{subsubsection.1.7.1}%
-\contentsline {subsubsection}{\numberline {1.7.2}Bereichsübergreifende Zusammenarbeit intensivieren}{13}{subsubsection.1.7.2}%
-\contentsline {subsubsection}{\numberline {1.7.3}Innovationsfähigkeit im Produktportfolio stärken}{14}{subsubsection.1.7.3}%
-\contentsline {subsection}{\numberline {1.8}Ursache-Wirkungs-Zusammenhänge}{15}{subsection.1.8}%
-\contentsline {subsection}{\numberline {1.9}Kritische Würdigung}{15}{subsection.1.9}%
-\contentsline {subsection}{\numberline {1.10}Messgrößen zur strategischen Erreichung der Ziele}{15}{subsection.1.10}%
-\contentsline {section}{Quellenverzeichnis}{16}{section*.3}%
-\contentsline {section}{Ehrenwörtliche Erklärung}{17}{section*.4}%
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Strategische Ausgangslage der BUÖ}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Bedeutung der Balanced Scorecard für die BUÖ}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Balanced Scorecard}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Finanzperspektive}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Unternehmenswert nachhaltig steigern}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}ROI über gewichteten Kapitalkosten halten}{3}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Free Cash-flow kontinuierlich erhöhen}{3}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Kundenperspektive}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Marktführerschaft ausbauen (>50\% Marktanteil)}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Kundenzufriedenheit in beiden Vertriebskanälen maximieren (LEH \& Gastronomie)}{5}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Neue Kundensegmente erschließen}{6}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Interne Prozessperspektive}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Effizienz in Produktion und Logistik steigern}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Qualitätsstandards sicherstellen}{8}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Vertriebsprozesse optimieren (eigener Fuhrpark mit 400 LKW)}{10}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Lern- und Entwicklungsperspektive}{11}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Unternehmerisch denkende Mitarbeiter fördern}{11}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Bereichsübergreifende Zusammenarbeit intensivieren}{12}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Innovationsfähigkeit im Produktportfolio stärken}{13}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}Ursache-Wirkungs-Zusammenhänge}{14}{subsection.2.5}%
+\contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Lern- und Innovationsperspektive.}{14}{paragraph*.4}%
+\contentsline {paragraph}{\nonumberline Wirkungen von der Lern- auf die Prozessperspektive.}{15}{paragraph*.6}%
+\contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Prozessperspektive.}{16}{paragraph*.8}%
+\contentsline {paragraph}{\nonumberline Wirkungen von der Prozess- auf die Kundenperspektive.}{16}{paragraph*.10}%
+\contentsline {paragraph}{\nonumberline Wirkungen von der Prozess- direkt auf die Finanzperspektive.}{17}{paragraph*.12}%
+\contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Kundenperspektive.}{17}{paragraph*.14}%
+\contentsline {paragraph}{\nonumberline Wirkungen von der Kundenperspektive auf die Finanzperspektive.}{17}{paragraph*.16}%
+\contentsline {paragraph}{\nonumberline Wirkungen innerhalb der Finanzperspektive.}{18}{paragraph*.18}%
+\contentsline {section}{\numberline {3}Zusammenfassung}{19}{section.3}%
+\contentsline {section}{Anhang}{20}{section*.19}%
+\contentsline {xsect}{}{20}{section*.19}%
+\contentsline {section}{Quellenverzeichnis}{22}{section*.23}%
+\contentsline {section}{Ehrenwörtliche Erklärung}{23}{section*.24}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
