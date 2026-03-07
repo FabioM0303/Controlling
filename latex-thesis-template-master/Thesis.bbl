@@ -16,5 +16,1282 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{noauthor_bierabsatz_nodate}{misc}{}{}
+      \list{language}{1}{%
+        {de}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der Bierabsatz in Deutschland ist im 1. Halbjahr 2025 gegenüber dem Vorjahreszeitraum um 6,3 \% oder 262 Millionen Liter auf rund 3,9 Milliarden Liter gesunken. Wie das Statistische Bundesamt (Destatis) mitteilt, fiel der Bierabsatz damit erstmals seit Beginn der Zeitreihe im Jahr 1993 in einem Halbjahr unter 4 Milliarden Liter. In den Zahlen sind alkoholfreie Biere und Malztrunk sowie das aus Ländern außerhalb der Europäischen Union (EU) importierte Bier nicht enthalten.}
+      \field{journaltitle}{Statistisches Bundesamt}
+      \field{title}{Bierabsatz im 1. {Halbjahr} 2025 um 6,3 \% niedriger als im {Vorjahreszeitraum}}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\Fabio\\Zotero\\storage\\PI2X629I\\PD25_282_73.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_282_73.html
+      \endverb
+      \verb{url}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_282_73.html
+      \endverb
+      \keyw{web}
+    \endentry
+    \entry{Kapitalkosten}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4eb866e3cd36f4ca51539afe4d20796b}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=4eb866e3cd36f4ca51539afe4d20796b}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{fullhash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{fullhashraw}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bibnamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authorbibnamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authornamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authorfullhash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authorfullhashraw}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthorbibnamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthornamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthorfullhash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthorfullhashraw}{4eb866e3cd36f4ca51539afe4d20796b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Kapitalkosten in Theorie und Praxis}
+      \field{isbn}{978-3-658-50574-5 978-3-658-50575-2}
+      \field{langid}{german}
+      \field{title}{Grundlagen}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \field{pages}{13\bibrangedash 95}
+      \range{pages}{83}
+      \verb{doi}
+      \verb 10.1007/978-3-658-50575-2_2
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\H5ACPLCB\\Frey - 2026 - Grundlagen.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-50575-2_2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-50575-2_2
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{gadatsch_it-controlling_2026}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9275409be595e9a1805fbdb65ceb0dee}{%
+           family={Gadatsch},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=432b90161c3fdcd755872dccbfd82615}{%
+           family={Schwethelm},
+           familyi={S\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{fullhash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{fullhashraw}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{bibnamehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authorbibnamehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authornamehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authorfullhash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authorfullhashraw}{ee039938c1394fe263955f6f0c55a2de}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Andreas Gadatsch und Marcus Schwethelm zeigen konkret auf, was IT-Controlling ist und wie man es in der öffentlichen Verwaltung nutzen kann. Hierzu werden die zentralen Aspekte erklärt und praxistaugliche Methoden anhand von Beispielen mit Bezug auf den öffentlichen Sektor vorgestellt}
+      \field{annotation}{Description based upon print version of record}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-3-658-50543-1}
+      \field{series}{{IT} {Kompakt} {Series}}
+      \field{shorttitle}{{IT}-{Controlling} {Für} {Die} öffentliche {Verwaltung} {Kompakt}}
+      \field{title}{{IT}-{Controlling} {Für} {Die} öffentliche {Verwaltung} {Kompakt}: {Methoden}, {Werkzeuge} und {Beispiele} {Für} {Die} {Verwaltungspraxis}}
+      \field{year}{2026}
+      \keyw{mono}
+    \endentry
+    \entry{hans_von_2013}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05cc2b4e29f48a13d45f7fedef5b03dd}{%
+           family={Hans},
+           familyi={H\bibinitperiod},
+           given={Norbert},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{fullhash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{fullhashraw}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{bibnamehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authorbibnamehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authornamehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authorfullhash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authorfullhashraw}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Strategische {Wettbewerbsvorteile}}
+      \field{isbn}{978-3-658-02373-7 978-3-658-02374-4}
+      \field{shorttitle}{Von der {Strategie} zur {Umsetzung}}
+      \field{title}{Von der {Strategie} zur {Umsetzung}: die {Balanced} {Scorecard}}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 163}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-658-02374-4_7
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-02374-4_7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-02374-4_7
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{ROI}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=022d291df49f3f50a0f9d2f29ff4d78d}{%
+           family={Issar},
+           familyi={I\bibinitperiod},
+           given={Gilad},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9a2d4f5c5f2f9d0cac58d7db03d28e5}{%
+           family={Navon},
+           familyi={N\bibinitperiod},
+           given={Liat\bibnamedelima Ramati},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{2}{}{%
+        {{hash=022d291df49f3f50a0f9d2f29ff4d78d}{%
+           family={Issar},
+           familyi={I\bibinitperiod},
+           given={Gilad},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b9a2d4f5c5f2f9d0cac58d7db03d28e5}{%
+           family={Navon},
+           familyi={N\bibinitperiod},
+           given={Liat\bibnamedelima Ramati},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{fullhash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{fullhashraw}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bibnamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authorbibnamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authornamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authorfullhash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authorfullhashraw}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthorbibnamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthornamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthorfullhash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthorfullhashraw}{158a2dc9356fae32490055a4549af1d1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Operational Excellence}
+      \field{isbn}{978-3-319-20698-1 978-3-319-20699-8}
+      \field{langid}{english}
+      \field{note}{Series Title: Management for Professionals}
+      \field{title}{Return on Investment ({ROI}) Calculations and {CAPEX} Decisions}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 130}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/978-3-319-20699-8_28
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\4TQ349S9\\Issar und Navon - 2016 - Return on Investment (ROI) Calculations and CAPEX Decisions.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-319-20699-8_28
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-319-20699-8_28
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{kollinger_intrapreneurship_2023}{inbook}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=86269152342800d49f6679dc6efe04c7}{%
+           family={Kollinger},
+           familyi={K\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5631e1859107193f2ae1c23cb3764a35}{%
+           family={Cardiano},
+           familyi={C\bibinitperiod},
+           given={Dino\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3871e114abad37c86c1e4bd3ebb72aaf}{%
+           family={Röhm},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ab7eb27edb8fd6f4d5004c7e1a5b87b}{%
+           family={Eski},
+           familyi={E\bibinitperiod},
+           given={Selina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{8ca0b49eaca191c65c5ef4e6b506e885}
+      \strng{fullhash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{fullhashraw}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{bibnamehash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{authorbibnamehash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{authornamehash}{8ca0b49eaca191c65c5ef4e6b506e885}
+      \strng{authorfullhash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{authorfullhashraw}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intrapreneurship – wie {Sie} {Innovationen} in etablierten {Unternehmen} fördern}
+      \field{isbn}{978-3-662-67376-8 978-3-662-67377-5}
+      \field{title}{Intrapreneurship erfolgreich im {Unternehmen} einführen}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{65\bibrangedash 81}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-3-662-67377-5_5
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-662-67377-5_5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-662-67377-5_5
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{kornert_perspektiven_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b396b1f9bfd68e346cb935669fa64f94}{%
+           family={Körnert},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \strng{namehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{fullhash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{fullhashraw}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{bibnamehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authorbibnamehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authornamehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authorfullhash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authorfullhashraw}{b396b1f9bfd68e346cb935669fa64f94}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1613-8392, 1613-9267}
+      \field{journaltitle}{Zeitschrift für Planung \& Unternehmenssteuerung}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{Perspektiven der {Balanced} {Scorecard}}
+      \field{title}{Perspektiven der {Balanced} {Scorecard}: {Eine} theoretisch-konzeptionelle {Analyse} zur {Auswahl} geeigneter {Balanced} {Scorecard}-{Perspektiven} für {Kreditinstitute}}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{17}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{155\bibrangedash 176}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00187-006-0164-8
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00187-006-0164-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00187-006-0164-8
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{Cash_Flow}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0684b0df3906117c8268d1f530160507}{%
+           family={Kruschwitz},
+           familyi={K\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcec9106f106cf8687960614d946b43f}{%
+           family={Löffler},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0684b0df3906117c8268d1f530160507}{%
+           family={Kruschwitz},
+           familyi={K\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bcec9106f106cf8687960614d946b43f}{%
+           family={Löffler},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{fullhash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{fullhashraw}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{bibnamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authorbibnamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authornamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authorfullhash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authorfullhashraw}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editorbibnamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editornamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editorfullhash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editorfullhashraw}{4b6ce7edcb59af024244597c6e1921b8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Valuation is being talked about everywhere. Finance experts, {CPAs}, investment bankers, and business consultants are discussing the advantages and disadvantages of discounted cash flow ({DCF}) methods since years. This book takes part in the discussion, and intends to make a theoretical contribution to it.}
+      \field{booktitle}{Stochastic Discounted Cash Flow: A Theory of the Valuation of Firms}
+      \field{isbn}{978-3-030-37081-7}
+      \field{langid}{english}
+      \field{shorttitle}{Basic Elements}
+      \field{title}{Basic Elements: Cash Flow, Tax, Expectation, Cost of Capital, Value}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 45}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1007/978-3-030-37081-7_2
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\J7KSYHYJ\\Kruschwitz und Löffler - 2020 - Basic Elements Cash Flow, Tax, Expectation, Cost of Capital, Value.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-030-37081-7_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-030-37081-7_2
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{FTY}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ba7122735918fedd33253326a25c2e66}{%
+           family={Succi},
+           familyi={S\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38a30446557d23c969139423f109eab9}{%
+           family={Kruglov},
+           familyi={K\bibinitperiod},
+           given={Artem},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=38a30446557d23c969139423f109eab9}{%
+           family={Kruglov},
+           familyi={K\bibinitperiod},
+           given={Artem},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ba7122735918fedd33253326a25c2e66}{%
+           family={Succi},
+           familyi={S\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{fullhash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{fullhashraw}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{bibnamehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authorbibnamehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authornamehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authorfullhash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authorfullhashraw}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{editorbibnamehash}{032d1fbc4cfbf44fb2a9450564592310}
+      \strng{editornamehash}{032d1fbc4cfbf44fb2a9450564592310}
+      \strng{editorfullhash}{032d1fbc4cfbf44fb2a9450564592310}
+      \strng{editorfullhashraw}{032d1fbc4cfbf44fb2a9450564592310}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Measurement is the fundamental mechanism of scientific study and development which allows to understand what is happening and why, and becomes critical for estimating progress, quality control, and productivity assessment throughout a software project. In this section basic principles of measurement and general software development metrics are discussed.}
+      \field{booktitle}{Developing Sustainable and Energy-Efficient Software Systems}
+      \field{isbn}{978-3-031-11658-2}
+      \field{langid}{english}
+      \field{title}{Concept and Principles of Measurement}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-3-031-11658-2_1
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\NLH9N74K\\Succi und Kruglov - 2023 - Concept and Principles of Measurement.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-031-11658-2_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-031-11658-2_1
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{ODT}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=70506ff36855eeedbde333fb008d05e5}{%
+           family={Sürie},
+           familyi={S\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0303bfaa1053ee8b94cbdd649053fe6}{%
+           family={Reuter},
+           familyi={R\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=9c1de4faed56436322a4b8fade4a885e}{%
+           family={Stadtler},
+           familyi={S\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c1730a24b19996a6d2e32ad0de775c86}{%
+           family={Kilger},
+           familyi={K\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5a5446d95aa9ed91fd7b38326f5a3e50}{%
+           family={Meyr},
+           familyi={M\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{fullhash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{fullhashraw}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{bibnamehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authorbibnamehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authornamehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authorfullhash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authorfullhashraw}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{editorbibnamehash}{f6657a0fadd681ea653c709b58969945}
+      \strng{editornamehash}{f6657a0fadd681ea653c709b58969945}
+      \strng{editorfullhash}{f6657a0fadd681ea653c709b58969945}
+      \strng{editorfullhashraw}{f6657a0fadd681ea653c709b58969945}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Supply Chain Management and Advanced Planning}
+      \field{isbn}{978-3-642-55308-0 978-3-642-55309-7}
+      \field{langid}{english}
+      \field{note}{Series Title: Springer Texts in Business and Economics}
+      \field{title}{Supply Chain Analysis}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{29\bibrangedash 54}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/978-3-642-55309-7_2
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-642-55309-7_2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-642-55309-7_2
+      \endverb
+      \keyw{mono}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{noauthor_bierabsatz_nodate}{misc}{}{}
+      \list{language}{1}{%
+        {de}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der Bierabsatz in Deutschland ist im 1. Halbjahr 2025 gegenüber dem Vorjahreszeitraum um 6,3 \% oder 262 Millionen Liter auf rund 3,9 Milliarden Liter gesunken. Wie das Statistische Bundesamt (Destatis) mitteilt, fiel der Bierabsatz damit erstmals seit Beginn der Zeitreihe im Jahr 1993 in einem Halbjahr unter 4 Milliarden Liter. In den Zahlen sind alkoholfreie Biere und Malztrunk sowie das aus Ländern außerhalb der Europäischen Union (EU) importierte Bier nicht enthalten.}
+      \field{journaltitle}{Statistisches Bundesamt}
+      \field{title}{Bierabsatz im 1. {Halbjahr} 2025 um 6,3 \% niedriger als im {Vorjahreszeitraum}}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\Fabio\\Zotero\\storage\\PI2X629I\\PD25_282_73.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_282_73.html
+      \endverb
+      \verb{url}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_282_73.html
+      \endverb
+      \keyw{web}
+    \endentry
+    \entry{Kapitalkosten}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4eb866e3cd36f4ca51539afe4d20796b}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=4eb866e3cd36f4ca51539afe4d20796b}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{fullhash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{fullhashraw}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bibnamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authorbibnamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authornamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authorfullhash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{authorfullhashraw}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthorbibnamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthornamehash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthorfullhash}{4eb866e3cd36f4ca51539afe4d20796b}
+      \strng{bookauthorfullhashraw}{4eb866e3cd36f4ca51539afe4d20796b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Kapitalkosten in Theorie und Praxis}
+      \field{isbn}{978-3-658-50574-5 978-3-658-50575-2}
+      \field{langid}{german}
+      \field{title}{Grundlagen}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \field{pages}{13\bibrangedash 95}
+      \range{pages}{83}
+      \verb{doi}
+      \verb 10.1007/978-3-658-50575-2_2
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\H5ACPLCB\\Frey - 2026 - Grundlagen.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-50575-2_2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-50575-2_2
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{gadatsch_it-controlling_2026}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9275409be595e9a1805fbdb65ceb0dee}{%
+           family={Gadatsch},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=432b90161c3fdcd755872dccbfd82615}{%
+           family={Schwethelm},
+           familyi={S\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{fullhash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{fullhashraw}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{bibnamehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authorbibnamehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authornamehash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authorfullhash}{ee039938c1394fe263955f6f0c55a2de}
+      \strng{authorfullhashraw}{ee039938c1394fe263955f6f0c55a2de}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Andreas Gadatsch und Marcus Schwethelm zeigen konkret auf, was IT-Controlling ist und wie man es in der öffentlichen Verwaltung nutzen kann. Hierzu werden die zentralen Aspekte erklärt und praxistaugliche Methoden anhand von Beispielen mit Bezug auf den öffentlichen Sektor vorgestellt}
+      \field{annotation}{Description based upon print version of record}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-3-658-50543-1}
+      \field{series}{{IT} {Kompakt} {Series}}
+      \field{shorttitle}{{IT}-{Controlling} {Für} {Die} öffentliche {Verwaltung} {Kompakt}}
+      \field{title}{{IT}-{Controlling} {Für} {Die} öffentliche {Verwaltung} {Kompakt}: {Methoden}, {Werkzeuge} und {Beispiele} {Für} {Die} {Verwaltungspraxis}}
+      \field{year}{2026}
+      \keyw{mono}
+    \endentry
+    \entry{hans_von_2013}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05cc2b4e29f48a13d45f7fedef5b03dd}{%
+           family={Hans},
+           familyi={H\bibinitperiod},
+           given={Norbert},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{fullhash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{fullhashraw}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{bibnamehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authorbibnamehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authornamehash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authorfullhash}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \strng{authorfullhashraw}{05cc2b4e29f48a13d45f7fedef5b03dd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Strategische {Wettbewerbsvorteile}}
+      \field{isbn}{978-3-658-02373-7 978-3-658-02374-4}
+      \field{shorttitle}{Von der {Strategie} zur {Umsetzung}}
+      \field{title}{Von der {Strategie} zur {Umsetzung}: die {Balanced} {Scorecard}}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 163}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-658-02374-4_7
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-658-02374-4_7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-658-02374-4_7
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{ROI}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=022d291df49f3f50a0f9d2f29ff4d78d}{%
+           family={Issar},
+           familyi={I\bibinitperiod},
+           given={Gilad},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9a2d4f5c5f2f9d0cac58d7db03d28e5}{%
+           family={Navon},
+           familyi={N\bibinitperiod},
+           given={Liat\bibnamedelima Ramati},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{2}{}{%
+        {{hash=022d291df49f3f50a0f9d2f29ff4d78d}{%
+           family={Issar},
+           familyi={I\bibinitperiod},
+           given={Gilad},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b9a2d4f5c5f2f9d0cac58d7db03d28e5}{%
+           family={Navon},
+           familyi={N\bibinitperiod},
+           given={Liat\bibnamedelima Ramati},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{fullhash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{fullhashraw}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bibnamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authorbibnamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authornamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authorfullhash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{authorfullhashraw}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthorbibnamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthornamehash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthorfullhash}{158a2dc9356fae32490055a4549af1d1}
+      \strng{bookauthorfullhashraw}{158a2dc9356fae32490055a4549af1d1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Operational Excellence}
+      \field{isbn}{978-3-319-20698-1 978-3-319-20699-8}
+      \field{langid}{english}
+      \field{note}{Series Title: Management for Professionals}
+      \field{title}{Return on Investment ({ROI}) Calculations and {CAPEX} Decisions}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 130}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/978-3-319-20699-8_28
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\4TQ349S9\\Issar und Navon - 2016 - Return on Investment (ROI) Calculations and CAPEX Decisions.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-319-20699-8_28
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-319-20699-8_28
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{kollinger_intrapreneurship_2023}{inbook}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=86269152342800d49f6679dc6efe04c7}{%
+           family={Kollinger},
+           familyi={K\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5631e1859107193f2ae1c23cb3764a35}{%
+           family={Cardiano},
+           familyi={C\bibinitperiod},
+           given={Dino\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3871e114abad37c86c1e4bd3ebb72aaf}{%
+           family={Röhm},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ab7eb27edb8fd6f4d5004c7e1a5b87b}{%
+           family={Eski},
+           familyi={E\bibinitperiod},
+           given={Selina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{8ca0b49eaca191c65c5ef4e6b506e885}
+      \strng{fullhash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{fullhashraw}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{bibnamehash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{authorbibnamehash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{authornamehash}{8ca0b49eaca191c65c5ef4e6b506e885}
+      \strng{authorfullhash}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \strng{authorfullhashraw}{448b05c30dcdbae32c6061ba12dd3aa9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intrapreneurship – wie {Sie} {Innovationen} in etablierten {Unternehmen} fördern}
+      \field{isbn}{978-3-662-67376-8 978-3-662-67377-5}
+      \field{title}{Intrapreneurship erfolgreich im {Unternehmen} einführen}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{65\bibrangedash 81}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-3-662-67377-5_5
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-662-67377-5_5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-662-67377-5_5
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{kornert_perspektiven_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b396b1f9bfd68e346cb935669fa64f94}{%
+           family={Körnert},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \strng{namehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{fullhash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{fullhashraw}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{bibnamehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authorbibnamehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authornamehash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authorfullhash}{b396b1f9bfd68e346cb935669fa64f94}
+      \strng{authorfullhashraw}{b396b1f9bfd68e346cb935669fa64f94}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1613-8392, 1613-9267}
+      \field{journaltitle}{Zeitschrift für Planung \& Unternehmenssteuerung}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{Perspektiven der {Balanced} {Scorecard}}
+      \field{title}{Perspektiven der {Balanced} {Scorecard}: {Eine} theoretisch-konzeptionelle {Analyse} zur {Auswahl} geeigneter {Balanced} {Scorecard}-{Perspektiven} für {Kreditinstitute}}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{17}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{155\bibrangedash 176}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00187-006-0164-8
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00187-006-0164-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00187-006-0164-8
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{Cash_Flow}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0684b0df3906117c8268d1f530160507}{%
+           family={Kruschwitz},
+           familyi={K\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcec9106f106cf8687960614d946b43f}{%
+           family={Löffler},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0684b0df3906117c8268d1f530160507}{%
+           family={Kruschwitz},
+           familyi={K\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bcec9106f106cf8687960614d946b43f}{%
+           family={Löffler},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{fullhash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{fullhashraw}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{bibnamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authorbibnamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authornamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authorfullhash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{authorfullhashraw}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editorbibnamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editornamehash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editorfullhash}{4b6ce7edcb59af024244597c6e1921b8}
+      \strng{editorfullhashraw}{4b6ce7edcb59af024244597c6e1921b8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Valuation is being talked about everywhere. Finance experts, {CPAs}, investment bankers, and business consultants are discussing the advantages and disadvantages of discounted cash flow ({DCF}) methods since years. This book takes part in the discussion, and intends to make a theoretical contribution to it.}
+      \field{booktitle}{Stochastic Discounted Cash Flow: A Theory of the Valuation of Firms}
+      \field{isbn}{978-3-030-37081-7}
+      \field{langid}{english}
+      \field{shorttitle}{Basic Elements}
+      \field{title}{Basic Elements: Cash Flow, Tax, Expectation, Cost of Capital, Value}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 45}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1007/978-3-030-37081-7_2
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\J7KSYHYJ\\Kruschwitz und Löffler - 2020 - Basic Elements Cash Flow, Tax, Expectation, Cost of Capital, Value.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-030-37081-7_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-030-37081-7_2
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{FTY}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ba7122735918fedd33253326a25c2e66}{%
+           family={Succi},
+           familyi={S\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38a30446557d23c969139423f109eab9}{%
+           family={Kruglov},
+           familyi={K\bibinitperiod},
+           given={Artem},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=38a30446557d23c969139423f109eab9}{%
+           family={Kruglov},
+           familyi={K\bibinitperiod},
+           given={Artem},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ba7122735918fedd33253326a25c2e66}{%
+           family={Succi},
+           familyi={S\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{fullhash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{fullhashraw}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{bibnamehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authorbibnamehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authornamehash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authorfullhash}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{authorfullhashraw}{3a68d99e466cc6735bd2a1870d33084d}
+      \strng{editorbibnamehash}{032d1fbc4cfbf44fb2a9450564592310}
+      \strng{editornamehash}{032d1fbc4cfbf44fb2a9450564592310}
+      \strng{editorfullhash}{032d1fbc4cfbf44fb2a9450564592310}
+      \strng{editorfullhashraw}{032d1fbc4cfbf44fb2a9450564592310}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Measurement is the fundamental mechanism of scientific study and development which allows to understand what is happening and why, and becomes critical for estimating progress, quality control, and productivity assessment throughout a software project. In this section basic principles of measurement and general software development metrics are discussed.}
+      \field{booktitle}{Developing Sustainable and Energy-Efficient Software Systems}
+      \field{isbn}{978-3-031-11658-2}
+      \field{langid}{english}
+      \field{title}{Concept and Principles of Measurement}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-3-031-11658-2_1
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\hch2\\Zotero\\storage\\NLH9N74K\\Succi und Kruglov - 2023 - Concept and Principles of Measurement.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-031-11658-2_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-031-11658-2_1
+      \endverb
+      \keyw{mono}
+    \endentry
+    \entry{ODT}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=70506ff36855eeedbde333fb008d05e5}{%
+           family={Sürie},
+           familyi={S\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0303bfaa1053ee8b94cbdd649053fe6}{%
+           family={Reuter},
+           familyi={R\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=9c1de4faed56436322a4b8fade4a885e}{%
+           family={Stadtler},
+           familyi={S\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c1730a24b19996a6d2e32ad0de775c86}{%
+           family={Kilger},
+           familyi={K\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5a5446d95aa9ed91fd7b38326f5a3e50}{%
+           family={Meyr},
+           familyi={M\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{fullhash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{fullhashraw}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{bibnamehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authorbibnamehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authornamehash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authorfullhash}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{authorfullhashraw}{c2eb2120cb4a6ffe4ed4155d69194c3b}
+      \strng{editorbibnamehash}{f6657a0fadd681ea653c709b58969945}
+      \strng{editornamehash}{f6657a0fadd681ea653c709b58969945}
+      \strng{editorfullhash}{f6657a0fadd681ea653c709b58969945}
+      \strng{editorfullhashraw}{f6657a0fadd681ea653c709b58969945}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Supply Chain Management and Advanced Planning}
+      \field{isbn}{978-3-642-55308-0 978-3-642-55309-7}
+      \field{langid}{english}
+      \field{note}{Series Title: Springer Texts in Business and Economics}
+      \field{title}{Supply Chain Analysis}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{29\bibrangedash 54}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/978-3-642-55309-7_2
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-642-55309-7_2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-642-55309-7_2
+      \endverb
+      \keyw{mono}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

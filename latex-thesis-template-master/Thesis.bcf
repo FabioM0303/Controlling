@@ -3071,6 +3071,27 @@
     <bcf:datasource type="file" datatype="bibtex">library/library.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">gadatsch_it-controlling_2026</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">noauthor_bierabsatz_nodate</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">gadatsch_it-controlling_2026</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">kornert_perspektiven_2006</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">gadatsch_it-controlling_2026</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">hans_von_2013</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">hans_von_2013</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">hans_von_2013</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">hans_von_2013</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">hans_von_2013</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Kapitalkosten</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">ROI</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Cash_Flow</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">FTY</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">ODT</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">kollinger_intrapreneurship_2023</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">kollinger_intrapreneurship_2023</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">kollinger_intrapreneurship_2023</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">kollinger_intrapreneurship_2023</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">kollinger_intrapreneurship_2023</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">kollinger_intrapreneurship_2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
