@@ -1,25 +1,26 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'Thesis.blg'
-[86] biber-MSWIN64:342> INFO - === 
-[116] Biber.pm:421> INFO - Reading 'Thesis.bcf'
-[217] Biber.pm:1002> INFO - Found 10 citekeys in bib section 0
-[232] Biber.pm:4487> INFO - Processing section 0
-[241] Biber.pm:4678> INFO - Looking for bibtex file 'library/library.bib' for section 0
-[291] bibtex.pm:1713> INFO - LaTeX decoding ...
-[318] bibtex.pm:1519> INFO - Found BibTeX data source 'library/library.bib'
-[412] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[412] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[412] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[413] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
-[432] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[432] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[432] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[432] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
-[444] bbl.pm:676> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[457] bbl.pm:779> INFO - Output to Thesis.bbl
-[457] Biber.pm:132> WARN - ISBN '978-3-658-02373-7 978-3-658-02374-4' in entry 'hans_von_2013' is invalid - run biber with '--validate_datamodel' for details.
-[457] Biber.pm:132> WARN - ISBN '978-3-658-50574-5 978-3-658-50575-2' in entry 'Kapitalkosten' is invalid - run biber with '--validate_datamodel' for details.
-[457] Biber.pm:132> WARN - ISBN '978-3-319-20698-1 978-3-319-20699-8' in entry 'ROI' is invalid - run biber with '--validate_datamodel' for details.
-[458] Biber.pm:132> WARN - ISBN '978-3-642-55308-0 978-3-642-55309-7' in entry 'ODT' is invalid - run biber with '--validate_datamodel' for details.
-[458] Biber.pm:132> WARN - ISBN '978-3-662-67376-8 978-3-662-67377-5' in entry 'kollinger_intrapreneurship_2023' is invalid - run biber with '--validate_datamodel' for details.
-[458] Biber.pm:134> INFO - WARNINGS: 5
+[88] biber-MSWIN64:342> INFO - === 
+[121] Biber.pm:421> INFO - Reading 'Thesis.bcf'
+[222] Biber.pm:1002> INFO - Found 11 citekeys in bib section 0
+[237] Biber.pm:4487> INFO - Processing section 0
+[246] Biber.pm:4678> INFO - Looking for bibtex file 'library/library.bib' for section 0
+[299] bibtex.pm:1713> INFO - LaTeX decoding ...
+[325] bibtex.pm:1519> INFO - Found BibTeX data source 'library/library.bib'
+[425] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[425] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[425] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[426] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[447] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[447] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[447] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[448] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[461] bbl.pm:676> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[476] bbl.pm:779> INFO - Output to Thesis.bbl
+[477] Biber.pm:132> WARN - ISBN '978-3-658-02373-7 978-3-658-02374-4' in entry 'hans_von_2013' is invalid - run biber with '--validate_datamodel' for details.
+[477] Biber.pm:132> WARN - ISBN '978-3-658-50574-5 978-3-658-50575-2' in entry 'Kapitalkosten' is invalid - run biber with '--validate_datamodel' for details.
+[477] Biber.pm:132> WARN - ISBN '978-3-319-20698-1 978-3-319-20699-8' in entry 'ROI' is invalid - run biber with '--validate_datamodel' for details.
+[477] Biber.pm:132> WARN - ISBN '9783032050014 9783032050021' in entry 'ardito_human-computer_2026' is invalid - run biber with '--validate_datamodel' for details.
+[477] Biber.pm:132> WARN - ISBN '978-3-642-55308-0 978-3-642-55309-7' in entry 'ODT' is invalid - run biber with '--validate_datamodel' for details.
+[477] Biber.pm:132> WARN - ISBN '978-3-662-67376-8 978-3-662-67377-5' in entry 'kollinger_intrapreneurship_2023' is invalid - run biber with '--validate_datamodel' for details.
+[477] Biber.pm:134> INFO - WARNINGS: 6

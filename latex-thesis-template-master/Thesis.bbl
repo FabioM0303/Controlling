@@ -19,6 +19,81 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{ardito_human-computer_2026}{book}{}{}
+      \name{editor}{7}{}{%
+        {{un=0,uniquepart=base,hash=6ba7acef9f230b2922e1571d81e91670}{%
+           family={Ardito},
+           familyi={A\bibinitperiod},
+           given={Carmelo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6027374d4a63bd3a2773b0599eeeeed}{%
+           family={Diniz\bibnamedelimb Junqueira\bibnamedelima Barbosa},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbb28132491eae4ad30c70238e5369f9}{%
+           family={Conte},
+           familyi={C\bibinitperiod},
+           given={Tayana},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=882b2e9190eb81fc820ab2cb7bad2e3b}{%
+           family={Freire},
+           familyi={F\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53eb9b7ca34b902ae6ef9e64ac432ff4}{%
+           family={Gasparini},
+           familyi={G\bibinitperiod},
+           given={Isabela},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91779e8d5b875867d491385500e54a30}{%
+           family={Palanque},
+           familyi={P\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e0d868b1f5f442a86e13fbb26030e9e}{%
+           family={Prates},
+           familyi={P\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
+      }
+      \strng{namehash}{852cf895f72c7c44c1b026761d4716cd}
+      \strng{fullhash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{fullhashraw}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{bibnamehash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{editorbibnamehash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{editornamehash}{852cf895f72c7c44c1b026761d4716cd}
+      \strng{editorfullhash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{editorfullhashraw}{5ea22e44823d5e823f52d71dcf3019eb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1st ed. 2026}
+      \field{isbn}{9783032050014 9783032050021}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{shorttitle}{Human-Computer Interaction – {INTERACT} 2025}
+      \field{title}{Human-Computer Interaction – {INTERACT} 2025: 20th {IFIP} {TC} 13 International Conference, Belo Horizonte, Brazil, September 8–12, 2025, Proceedings, Part {II}}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \keyw{mono}
+    \endentry
     \entry{noauthor_bierabsatz_nodate}{misc}{}{}
       \list{language}{1}{%
         {de}%
@@ -656,6 +731,81 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{ardito_human-computer_2026}{book}{}{}
+      \name{editor}{7}{}{%
+        {{un=0,uniquepart=base,hash=6ba7acef9f230b2922e1571d81e91670}{%
+           family={Ardito},
+           familyi={A\bibinitperiod},
+           given={Carmelo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6027374d4a63bd3a2773b0599eeeeed}{%
+           family={Diniz\bibnamedelimb Junqueira\bibnamedelima Barbosa},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbb28132491eae4ad30c70238e5369f9}{%
+           family={Conte},
+           familyi={C\bibinitperiod},
+           given={Tayana},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=882b2e9190eb81fc820ab2cb7bad2e3b}{%
+           family={Freire},
+           familyi={F\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53eb9b7ca34b902ae6ef9e64ac432ff4}{%
+           family={Gasparini},
+           familyi={G\bibinitperiod},
+           given={Isabela},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91779e8d5b875867d491385500e54a30}{%
+           family={Palanque},
+           familyi={P\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e0d868b1f5f442a86e13fbb26030e9e}{%
+           family={Prates},
+           familyi={P\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
+      }
+      \strng{namehash}{852cf895f72c7c44c1b026761d4716cd}
+      \strng{fullhash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{fullhashraw}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{bibnamehash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{editorbibnamehash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{editornamehash}{852cf895f72c7c44c1b026761d4716cd}
+      \strng{editorfullhash}{5ea22e44823d5e823f52d71dcf3019eb}
+      \strng{editorfullhashraw}{5ea22e44823d5e823f52d71dcf3019eb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1st ed. 2026}
+      \field{isbn}{9783032050014 9783032050021}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{shorttitle}{Human-Computer Interaction – {INTERACT} 2025}
+      \field{title}{Human-Computer Interaction – {INTERACT} 2025: 20th {IFIP} {TC} 13 International Conference, Belo Horizonte, Brazil, September 8–12, 2025, Proceedings, Part {II}}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \keyw{mono}
+    \endentry
     \entry{noauthor_bierabsatz_nodate}{misc}{}{}
       \list{language}{1}{%
         {de}%

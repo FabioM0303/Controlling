@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.26)  7 MAR 2026 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.26)  7 MAR 2026 20:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1620,67 +1620,61 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 74
 [4]
 \openout2 = `chapter/EinfÃ¼hrung.aux'.
 
- (chapter/EinfÃ¼hrung.tex)
-\openout2 = `chapter/Hauptteil.aux'.
-
- (chapter/Hauptteil.tex
+ (chapter/EinfÃ¼hrung.tex
 
 [1
 
-
-
-
-]
+])
 
 [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
-3.
- (C:\Users\Fabio\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+\openout2 = `chapter/Hauptteil.aux'.
+
+ (chapter/Hauptteil.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+0.
+
+(C:\Users\Fabio\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
-[3{C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+[3
 
+
+
+{C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 [4]
+Overfull \hbox (85.7779pt too wide) in paragraph at lines 33--34
+\T1/lmr/m/n/12 (-10) Beziehungen in-ner-halb der vier Per-spek-ti-ven der Ba-la
+n-ced Sco-re-card nä-her er-läu-tert. 
+ []
+
+
 
 [5]
-Overfull \hbox (12.08264pt too wide) in paragraph at lines 79--80
+
+[6]
+Overfull \hbox (12.08264pt too wide) in paragraph at lines 57--58
 \T1/lmr/m/n/12 (-10) Leis-tungs-kraft des Un-ter-neh-mens. (vgl. Krusch-witz un
 d Löff-ler, []2020[]) 
  []
 
 
 
-[6]
-
 [7]
 
-[8{C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
-c}{C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
+[8]
 
 [9]
 
 [10]
-Overfull \hbox (0.33237pt too wide) in paragraph at lines 125--126
-\T1/lmr/m/n/12 (-10) Ga-stro-no-mie und wir-ken sich di-rekt auf die Re-kla-ma-
-ti-ons-quo-te aus. 
- []
-
-
 
 [11]
 
 [12]
-Overfull \hbox (72.06653pt too wide) in paragraph at lines 145--146
-[]\T1/lmr/m/n/12 (-10) Daten und un-ter-stüt-zen so-wohl Dis-po-si-ti-on als au
-ch kon-ti-nu-ier-li-che Ver-bes-se-rung. 
- []
-
-
-Overfull \hbox (2.33122pt too wide) in paragraph at lines 157--158
-\T1/lmr/m/n/12 (-10) Maÿ-nah-men ab-lei-ten, die es-sen-zi-ell für die Er-rei-c
-hung des Ziels sind. 
+Overfull \hbox (0.33237pt too wide) in paragraph at lines 108--109
+\T1/lmr/m/n/12 (-10) Ga-stro-no-mie und wir-ken sich di-rekt auf die Re-kla-ma-
+ti-ons-quo-te aus. 
  []
 
 
@@ -1688,13 +1682,35 @@ hung des Ziels sind.
 [13]
 
 [14]
+Overfull \hbox (72.06653pt too wide) in paragraph at lines 128--129
+[]\T1/lmr/m/n/12 (-10) Daten und un-ter-stüt-zen so-wohl Dis-po-si-ti-on als au
+ch kon-ti-nu-ier-li-che Ver-bes-se-rung. 
+ []
 
-[15])
 
-[16]
+Overfull \hbox (2.33122pt too wide) in paragraph at lines 140--141
+\T1/lmr/m/n/12 (-10) Maÿ-nah-men ab-lei-ten, die es-sen-zi-ell für die Er-rei-c
+hung des Ziels sind. 
+ []
+
+
+
+[15]
+
+[16])
+
+[17]
 \openout2 = `chapter/Zusammenfassung.aux'.
 
- (chapter/Zusammenfassung.tex)
+ (chapter/Zusammenfassung.tex
+
+[18
+
+
+
+])
+
+[19]
 \openout2 = `chapter/Anhang.aux'.
 
  (chapter/Anhang.tex (Thesis.fk)
@@ -1703,22 +1719,19 @@ hung des Ziels sind.
 
 
 
-[17
-
-
-
+[20
 
 
 
 ]
-<img/blabla.png, id=199, 1697.5922pt x 1123.19624pt>
+<img/blabla.png, id=215, 1445.4pt x 813.0375pt>
 File: img/blabla.png Graphic file (type png)
 <use img/blabla.png>
 Package pdftex.def Info: img/blabla.png  used on input line 24.
-(pdftex.def)             Requested size: 398.37659pt x 263.5741pt.
+(pdftex.def)             Requested size: 398.37659pt x 224.08844pt.
 )
 
-[18 <./img/blabla.png>]
+[21 <./img/blabla.png (PNG copy)>]
 \openout2 = `chapter/Quellenverzeichnis.aux'.
 
  (chapter/Quellenverzeichnis.tex
@@ -1729,7 +1742,7 @@ e-card: Ei-ne theoretisch-
 
 
 
-[19
+[22
 
 
 
@@ -1742,12 +1755,12 @@ LaTeX Warning: Empty bibliography on input line 22.
 
 )
 
-[20]
+[23]
 \openout2 = `chapter/Ehrenwoertliche_Erklaerung.aux'.
 
  (chapter/Ehrenwoertliche_Erklaerung.tex)
 
-[21
+[24
 
 
 
@@ -1764,36 +1777,28 @@ Package minitoc Info: I0009
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40959 strings out of 468149
- 805964 string characters out of 5431082
- 1959262 words of memory out of 5000000
- 68835 multiletter control sequences out of 15000+600000
+ 40964 strings out of 468149
+ 806242 string characters out of 5431082
+ 1959554 words of memory out of 5000000
+ 68838 multiletter control sequences out of 15000+600000
  686682 words of font info for 124 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  113i,12n,131p,10925b,7353s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
-b><C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pf
 b><C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 ><C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
 <C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
 <C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb>
 <C:/Users/Fabio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
 b>
-Output written on Thesis.pdf (25 pages, 568723 bytes).
+Output written on Thesis.pdf (28 pages, 529787 bytes).
 PDF statistics:
- 388 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
+ 394 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
  37123 words of extra memory for PDF output out of 42996 (max. 10000000)
 
